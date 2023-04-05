@@ -1,0 +1,108 @@
+body{
+    background:url('https://th.bing.com/th/id/OIP.GsJcaSrjYEIa-M4ajdVfnAHaEK?w=232&h=180&c=7&r=0&o=5&pid=1.7');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.link ul{
+    display: flex;
+    justify-content: right;
+    list-style: none;
+}
+.link ul li{
+    padding: 10px;
+}
+.link ul a{
+    text-decoration: none;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logo{
+    /* padding: 80px  350px; */
+    margin-top: 100px;
+}
+.search{
+    width: 520px;
+    margin: 50px;
+    display: flex;
+    background-color: white;
+    border-radius: 20px;
+}
+.search img{
+    margin-left:10px ;
+    width: 30px;
+    height: 40px;
+}
+.search input{
+    width: 430px;
+    height: 30px;
+    border: none;
+    padding: 5px 20px;
+}
+.images img{
+    width: 20px;
+    height: 25px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.icon{
+    display: flex;
+     
+    
+}
+
+.icon1{
+    display: flex;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 10px;   
+
+}
+
+.icon1 img{
+    width: 35px;
+    height: 35px;
+    position: relative;
+    left: 6px;
+    top: 9px;
+}
+
+.icon2{
+    display: flex;
+    background-color: white;
+    
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 10px;
+}
+.icon2 img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 6px;
+    left: 9px;
+}
+
+.icon3{
+    display: flex;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 10px;   
+
+}
+.icon3 img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 9px;
+    top:6px;
+}

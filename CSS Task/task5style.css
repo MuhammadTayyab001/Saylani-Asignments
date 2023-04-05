@@ -1,0 +1,30 @@
+body{
+    background-color: blanchedalmond;
+}
+.title{
+    display: flex;
+    
+}
+.title img{
+    width: 35px;
+    height: 35px;
+    margin: 10px  420px 0px 0px;
+}
+.box{
+    margin:150px auto;
+    padding: 10px;
+    width: 40vw;
+    height: 40vh;
+    background-color:white;
+    border: 1px solid black;
+    
+}
+.box h1{
+    background-color: gray;
+}
+.one{
+    background-color: rgb(55, 55, 141);
+}
+.two{
+    background-color: rgb(143, 143, 56);
+}
